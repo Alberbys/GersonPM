@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GersonP</string>
+    <string name="Apellidos">Ingrese su apellido</string>
+    <string name="Respuesta">Registro ingreso con exito</string>
+    <string name="ErrorResp">Error no se pudo registrar</string>
+
+</resources>
